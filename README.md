@@ -12,20 +12,22 @@ Scalable and Reproducible: Well-structured codebase with clear documentation
 
 # Tech Stack
 Programming Language: Python
-Machine Learning Libraries:
-Scikit-learn
-Pandas
-NumPy
-Data Visualization:
-Matplotlib
-Seaborn
+
+# Machine Learning Libraries:
+Scikit-learn,
+ Pandas,
+ NumPy
+
+# Data Visualization:
+Matplotlib,
+ Seaborn
 
 # Model Type
-Linear Regression
-Ridge Regression
-Lasso Regression
-ElasticNet Regression
-KNeighborsRegressor
-SVR
-RandomForestRegressor
-GradientBoostingRegressor
+Linear Regression,
+ Ridge Regression,
+ Lasso Regression,
+ ElasticNet Regression,
+ KNeighborsRegressor,
+ SVR,
+ RandomForestRegressor,
+ GradientBoostingRegressor
